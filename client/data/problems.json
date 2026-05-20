@@ -1,0 +1,2196 @@
+[
+  {
+    "leetcodeId": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "topics": ["Array", "Hash Table"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 2,
+    "title": "Add Two Numbers",
+    "difficulty": "Medium",
+    "topics": ["Linked List", "Math"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "topics": ["String", "Sliding Window"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 4,
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "topics": ["Binary Search"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "topics": ["Dynamic Programming", "String"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 15,
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "topics": ["Array", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "topics": ["Stack", "String"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 53,
+    "title": "Maximum Subarray",
+    "difficulty": "Easy",
+    "topics": ["Array", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "topics": ["Graph", "DFS", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 217,
+    "title": "Contains Duplicate",
+    "difficulty": "Easy",
+    "topics": ["Array", "Hash Table"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 11,
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "topics": ["Array", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 13,
+    "title": "Roman to Integer",
+    "difficulty": "Easy",
+    "topics": ["Hash Table", "Math", "String"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 14,
+    "title": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "topics": ["String"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 21,
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "Easy",
+    "topics": ["Linked List", "Recursion"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 22,
+    "title": "Generate Parentheses",
+    "difficulty": "Medium",
+    "topics": ["String", "Backtracking"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 23,
+    "title": "Merge k Sorted Lists",
+    "difficulty": "Hard",
+    "topics": ["Linked List", "Heap", "Divide and Conquer"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 26,
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "Easy",
+    "topics": ["Array", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 27,
+    "title": "Remove Element",
+    "difficulty": "Easy",
+    "topics": ["Array", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 33,
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "topics": ["Array", "Binary Search"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 34,
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "Medium",
+    "topics": ["Array", "Binary Search"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 36,
+    "title": "Valid Sudoku",
+    "difficulty": "Medium",
+    "topics": ["Array", "Hash Table", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 39,
+    "title": "Combination Sum",
+    "difficulty": "Medium",
+    "topics": ["Array", "Backtracking"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 40,
+    "title": "Combination Sum II",
+    "difficulty": "Medium",
+    "topics": ["Array", "Backtracking"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "topics": ["Array", "Two Pointers", "Stack"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 46,
+    "title": "Permutations",
+    "difficulty": "Medium",
+    "topics": ["Array", "Backtracking"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 48,
+    "title": "Rotate Image",
+    "difficulty": "Medium",
+    "topics": ["Array", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 49,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "topics": ["Array", "Hash Table", "String"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 54,
+    "title": "Spiral Matrix",
+    "difficulty": "Medium",
+    "topics": ["Array", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 55,
+    "title": "Jump Game",
+    "difficulty": "Medium",
+    "topics": ["Array", "Greedy", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "topics": ["Array", "Sorting"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 57,
+    "title": "Insert Interval",
+    "difficulty": "Medium",
+    "topics": ["Array"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 62,
+    "title": "Unique Paths",
+    "difficulty": "Medium",
+    "topics": ["Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 64,
+    "title": "Minimum Path Sum",
+    "difficulty": "Medium",
+    "topics": ["Array", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 70,
+    "title": "Climbing Stairs",
+    "difficulty": "Easy",
+    "topics": ["Dynamic Programming", "Math"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 73,
+    "title": "Set Matrix Zeroes",
+    "difficulty": "Medium",
+    "topics": ["Array", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 74,
+    "title": "Search a 2D Matrix",
+    "difficulty": "Medium",
+    "topics": ["Array", "Binary Search", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 75,
+    "title": "Sort Colors",
+    "difficulty": "Medium",
+    "topics": ["Array", "Two Pointers", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 78,
+    "title": "Subsets",
+    "difficulty": "Medium",
+    "topics": ["Array", "Backtracking", "Bit Manipulation"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 79,
+    "title": "Word Search",
+    "difficulty": "Medium",
+    "topics": ["Array", "Backtracking", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 84,
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "Hard",
+    "topics": ["Array", "Stack", "Monotonic Stack"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 88,
+    "title": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "topics": ["Array", "Two Pointers", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 91,
+    "title": "Decode Ways",
+    "difficulty": "Medium",
+    "topics": ["String", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 98,
+    "title": "Validate Binary Search Tree",
+    "difficulty": "Medium",
+    "topics": ["Tree", "DFS", "Binary Search Tree"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 100,
+    "title": "Same Tree",
+    "difficulty": "Easy",
+    "topics": ["Tree", "DFS", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 102,
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "Medium",
+    "topics": ["Tree", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 104,
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "Easy",
+    "topics": ["Tree", "DFS", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 105,
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "Medium",
+    "topics": ["Tree", "Divide and Conquer"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "topics": ["Array", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 125,
+    "title": "Valid Palindrome",
+    "difficulty": "Easy",
+    "topics": ["Two Pointers", "String"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 128,
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "Medium",
+    "topics": ["Array", "Hash Table", "Union Find"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 130,
+    "title": "Surrounded Regions",
+    "difficulty": "Medium",
+    "topics": ["Array", "DFS", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 133,
+    "title": "Clone Graph",
+    "difficulty": "Medium",
+    "topics": ["Graph", "DFS", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 139,
+    "title": "Word Break",
+    "difficulty": "Medium",
+    "topics": ["String", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 141,
+    "title": "Linked List Cycle",
+    "difficulty": "Easy",
+    "topics": ["Linked List", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 143,
+    "title": "Reorder List",
+    "difficulty": "Medium",
+    "topics": ["Linked List", "Two Pointers", "Stack"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "topics": ["Hash Table", "Linked List", "Design"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 150,
+    "title": "Evaluate Reverse Polish Notation",
+    "difficulty": "Medium",
+    "topics": ["Array", "Stack"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 152,
+    "title": "Maximum Product Subarray",
+    "difficulty": "Medium",
+    "topics": ["Array", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 153,
+    "title": "Find Minimum in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "topics": ["Array", "Binary Search"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 155,
+    "title": "Min Stack",
+    "difficulty": "Medium",
+    "topics": ["Stack", "Design"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 167,
+    "title": "Two Sum II - Input Array Is Sorted",
+    "difficulty": "Medium",
+    "topics": ["Array", "Two Pointers", "Binary Search"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 169,
+    "title": "Majority Element",
+    "difficulty": "Easy",
+    "topics": ["Array", "Hash Table", "Divide and Conquer"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 198,
+    "title": "House Robber",
+    "difficulty": "Medium",
+    "topics": ["Array", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 206,
+    "title": "Reverse Linked List",
+    "difficulty": "Easy",
+    "topics": ["Linked List", "Recursion"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 207,
+    "title": "Course Schedule",
+    "difficulty": "Medium",
+    "topics": ["Graph", "Topological Sort", "BFS", "DFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 208,
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "Medium",
+    "topics": ["Trie", "Design", "String"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 209,
+    "title": "Minimum Size Subarray Sum",
+    "difficulty": "Medium",
+    "topics": ["Array", "Sliding Window", "Binary Search"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 210,
+    "title": "Course Schedule II",
+    "difficulty": "Medium",
+    "topics": ["Graph", "Topological Sort", "BFS", "DFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 215,
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "Medium",
+    "topics": ["Array", "Heap", "Quickselect"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 226,
+    "title": "Invert Binary Tree",
+    "difficulty": "Easy",
+    "topics": ["Tree", "DFS", "BFS"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 230,
+    "title": "Kth Smallest Element in a BST",
+    "difficulty": "Medium",
+    "topics": ["Tree", "Binary Search Tree", "DFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 234,
+    "title": "Palindrome Linked List",
+    "difficulty": "Easy",
+    "topics": ["Linked List", "Two Pointers", "Stack"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 235,
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "Medium",
+    "topics": ["Tree", "Binary Search Tree"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 236,
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "Medium",
+    "topics": ["Tree", "DFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 238,
+    "title": "Product of Array Except Self",
+    "difficulty": "Medium",
+    "topics": ["Array", "Prefix Sum"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 239,
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "topics": ["Array", "Sliding Window", "Heap", "Deque"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 242,
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "topics": ["Hash Table", "String", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 268,
+    "title": "Missing Number",
+    "difficulty": "Easy",
+    "topics": ["Array", "Hash Table", "Math"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 271,
+    "title": "Encode and Decode Strings",
+    "difficulty": "Medium",
+    "topics": ["String", "Design"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 287,
+    "title": "Find the Duplicate Number",
+    "difficulty": "Medium",
+    "topics": ["Array", "Two Pointers", "Binary Search"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 295,
+    "title": "Find Median from Data Stream",
+    "difficulty": "Hard",
+    "topics": ["Heap", "Design"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 297,
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "Hard",
+    "topics": ["Tree", "DFS", "BFS", "Design"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 300,
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "topics": ["Array", "Dynamic Programming", "Binary Search"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 322,
+    "title": "Coin Change",
+    "difficulty": "Medium",
+    "topics": ["Dynamic Programming", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 328,
+    "title": "Odd Even Linked List",
+    "difficulty": "Medium",
+    "topics": ["Linked List"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 347,
+    "title": "Top K Frequent Elements",
+    "difficulty": "Medium",
+    "topics": ["Array", "Hash Table", "Heap"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 371,
+    "title": "Sum of Two Integers",
+    "difficulty": "Medium",
+    "topics": ["Bit Manipulation", "Math"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 394,
+    "title": "Decode String",
+    "difficulty": "Medium",
+    "topics": ["String", "Stack", "Recursion"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 417,
+    "title": "Pacific Atlantic Water Flow",
+    "difficulty": "Medium",
+    "topics": ["Matrix", "DFS", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 424,
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "Medium",
+    "topics": ["String", "Sliding Window"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 435,
+    "title": "Non-overlapping Intervals",
+    "difficulty": "Medium",
+    "topics": ["Array", "Greedy", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 438,
+    "title": "Find All Anagrams in a String",
+    "difficulty": "Medium",
+    "topics": ["Hash Table", "String", "Sliding Window"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 448,
+    "title": "Find All Numbers Disappeared in an Array",
+    "difficulty": "Easy",
+    "topics": ["Array", "Hash Table"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 451,
+    "title": "Sort Characters By Frequency",
+    "difficulty": "Medium",
+    "topics": ["Hash Table", "Heap", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 494,
+    "title": "Target Sum",
+    "difficulty": "Medium",
+    "topics": ["Dynamic Programming", "Backtracking"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 509,
+    "title": "Fibonacci Number",
+    "difficulty": "Easy",
+    "topics": ["Math", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 518,
+    "title": "Coin Change II",
+    "difficulty": "Medium",
+    "topics": ["Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 542,
+    "title": "01 Matrix",
+    "difficulty": "Medium",
+    "topics": ["Matrix", "BFS", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 543,
+    "title": "Diameter of Binary Tree",
+    "difficulty": "Easy",
+    "topics": ["Tree", "DFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 560,
+    "title": "Subarray Sum Equals K",
+    "difficulty": "Medium",
+    "topics": ["Array", "Hash Table", "Prefix Sum"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 572,
+    "title": "Subtree of Another Tree",
+    "difficulty": "Easy",
+    "topics": ["Tree", "DFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 621,
+    "title": "Task Scheduler",
+    "difficulty": "Medium",
+    "topics": ["Array", "Greedy", "Heap"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 647,
+    "title": "Palindromic Substrings",
+    "difficulty": "Medium",
+    "topics": ["String", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 658,
+    "title": "Find K Closest Elements",
+    "difficulty": "Medium",
+    "topics": ["Array", "Binary Search", "Sliding Window"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 680,
+    "title": "Valid Palindrome II",
+    "difficulty": "Easy",
+    "topics": ["String", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 695,
+    "title": "Max Area of Island",
+    "difficulty": "Medium",
+    "topics": ["Graph", "DFS", "BFS", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 704,
+    "title": "Binary Search",
+    "difficulty": "Easy",
+    "topics": ["Array", "Binary Search"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 713,
+    "title": "Subarray Product Less Than K",
+    "difficulty": "Medium",
+    "topics": ["Array", "Sliding Window"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 739,
+    "title": "Daily Temperatures",
+    "difficulty": "Medium",
+    "topics": ["Array", "Stack", "Monotonic Stack"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 746,
+    "title": "Min Cost Climbing Stairs",
+    "difficulty": "Easy",
+    "topics": ["Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 763,
+    "title": "Partition Labels",
+    "difficulty": "Medium",
+    "topics": ["String", "Greedy", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 767,
+    "title": "Reorganize String",
+    "difficulty": "Medium",
+    "topics": ["String", "Heap", "Greedy"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 785,
+    "title": "Is Graph Bipartite?",
+    "difficulty": "Medium",
+    "topics": ["Graph", "DFS", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 787,
+    "title": "Cheapest Flights Within K Stops",
+    "difficulty": "Medium",
+    "topics": ["Graph", "BFS", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 797,
+    "title": "All Paths From Source to Target",
+    "difficulty": "Medium",
+    "topics": ["Graph", "DFS", "Backtracking"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 844,
+    "title": "Backspace String Compare",
+    "difficulty": "Easy",
+    "topics": ["String", "Two Pointers", "Stack"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 853,
+    "title": "Car Fleet",
+    "difficulty": "Medium",
+    "topics": ["Array", "Stack", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 875,
+    "title": "Koko Eating Bananas",
+    "difficulty": "Medium",
+    "topics": ["Array", "Binary Search"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 876,
+    "title": "Middle of the Linked List",
+    "difficulty": "Easy",
+    "topics": ["Linked List", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 904,
+    "title": "Fruit Into Baskets",
+    "difficulty": "Medium",
+    "topics": ["Array", "Sliding Window", "Hash Table"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 912,
+    "title": "Sort an Array",
+    "difficulty": "Medium",
+    "topics": ["Array", "Sorting", "Divide and Conquer"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 931,
+    "title": "Minimum Falling Path Sum",
+    "difficulty": "Medium",
+    "topics": ["Dynamic Programming", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 973,
+    "title": "K Closest Points to Origin",
+    "difficulty": "Medium",
+    "topics": ["Array", "Heap", "Geometry"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 981,
+    "title": "Time Based Key-Value Store",
+    "difficulty": "Medium",
+    "topics": ["Hash Table", "Binary Search", "Design"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 994,
+    "title": "Rotting Oranges",
+    "difficulty": "Medium",
+    "topics": ["Matrix", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1004,
+    "title": "Max Consecutive Ones III",
+    "difficulty": "Medium",
+    "topics": ["Array", "Sliding Window"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1025,
+    "title": "Divisor Game",
+    "difficulty": "Easy",
+    "topics": ["Math", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1046,
+    "title": "Last Stone Weight",
+    "difficulty": "Easy",
+    "topics": ["Array", "Heap"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1049,
+    "title": "Last Stone Weight II",
+    "difficulty": "Medium",
+    "topics": ["Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1143,
+    "title": "Longest Common Subsequence",
+    "difficulty": "Medium",
+    "topics": ["String", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 1161,
+    "title": "Maximum Level Sum of a Binary Tree",
+    "difficulty": "Medium",
+    "topics": ["Tree", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1207,
+    "title": "Unique Number of Occurrences",
+    "difficulty": "Easy",
+    "topics": ["Array", "Hash Table"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1218,
+    "title": "Longest Arithmetic Subsequence of Given Difference",
+    "difficulty": "Medium",
+    "topics": ["Array", "Hash Table", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1249,
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "difficulty": "Medium",
+    "topics": ["String", "Stack"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1281,
+    "title": "Subtract the Product and Sum of Digits of an Integer",
+    "difficulty": "Easy",
+    "topics": ["Math"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1283,
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "difficulty": "Medium",
+    "topics": ["Array", "Binary Search"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1299,
+    "title": "Replace Elements with Greatest Element on Right Side",
+    "difficulty": "Easy",
+    "topics": ["Array"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1335,
+    "title": "Minimum Difficulty of a Job Schedule",
+    "difficulty": "Hard",
+    "topics": ["Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1343,
+    "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+    "difficulty": "Medium",
+    "topics": ["Array", "Sliding Window"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1351,
+    "title": "Count Negative Numbers in a Sorted Matrix",
+    "difficulty": "Easy",
+    "topics": ["Array", "Matrix", "Binary Search"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 1423,
+    "title": "Maximum Points You Can Obtain from Cards",
+    "difficulty": "Medium",
+    "topics": ["Array", "Sliding Window", "Prefix Sum"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1431,
+    "title": "Kids With the Greatest Number of Candies",
+    "difficulty": "Easy",
+    "topics": ["Array"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1456,
+    "title": "Maximum Number of Vowels in a Substring of Given Length",
+    "difficulty": "Medium",
+    "topics": ["String", "Sliding Window"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1480,
+    "title": "Running Sum of 1d Array",
+    "difficulty": "Easy",
+    "topics": ["Array", "Prefix Sum"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1493,
+    "title": "Longest Subarray of 1's After Deleting One Element",
+    "difficulty": "Medium",
+    "topics": ["Array", "Sliding Window"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1498,
+    "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+    "difficulty": "Medium",
+    "topics": ["Array", "Two Pointers", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1502,
+    "title": "Can Make Arithmetic Progression From Sequence",
+    "difficulty": "Easy",
+    "topics": ["Array", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1512,
+    "title": "Number of Good Pairs",
+    "difficulty": "Easy",
+    "topics": ["Array", "Hash Table"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1539,
+    "title": "Kth Missing Positive Number",
+    "difficulty": "Easy",
+    "topics": ["Array", "Binary Search"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1588,
+    "title": "Sum of All Odd Length Subarrays",
+    "difficulty": "Easy",
+    "topics": ["Array", "Prefix Sum"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 1626,
+    "title": "Best Team With No Conflicts",
+    "difficulty": "Medium",
+    "topics": ["Dynamic Programming", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1657,
+    "title": "Determine if Two Strings Are Close",
+    "difficulty": "Medium",
+    "topics": ["Hash Table", "String", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1672,
+    "title": "Richest Customer Wealth",
+    "difficulty": "Easy",
+    "topics": ["Array", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1704,
+    "title": "Determine if String Halves Are Alike",
+    "difficulty": "Easy",
+    "topics": ["String", "Counting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1732,
+    "title": "Find the Highest Altitude",
+    "difficulty": "Easy",
+    "topics": ["Array", "Prefix Sum"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1768,
+    "title": "Merge Strings Alternately",
+    "difficulty": "Easy",
+    "topics": ["String", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1832,
+    "title": "Check if the Sentence Is Pangram",
+    "difficulty": "Easy",
+    "topics": ["Hash Table", "String"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1929,
+    "title": "Concatenation of Array",
+    "difficulty": "Easy",
+    "topics": ["Array"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1971,
+    "title": "Find if Path Exists in Graph",
+    "difficulty": "Easy",
+    "topics": ["Graph", "DFS", "BFS", "Union Find"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 2215,
+    "title": "Find the Difference of Two Arrays",
+    "difficulty": "Easy",
+    "topics": ["Array", "Hash Table"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 10,
+    "title": "Regular Expression Matching",
+    "difficulty": "Hard",
+    "topics": ["String", "Dynamic Programming", "Recursion"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 17,
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "topics": ["Hash Table", "String", "Backtracking"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 18,
+    "title": "4Sum",
+    "difficulty": "Medium",
+    "topics": ["Array", "Two Pointers", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 19,
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "Medium",
+    "topics": ["Linked List", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 24,
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "Medium",
+    "topics": ["Linked List", "Recursion"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 25,
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "Hard",
+    "topics": ["Linked List", "Recursion"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 31,
+    "title": "Next Permutation",
+    "difficulty": "Medium",
+    "topics": ["Array", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 32,
+    "title": "Longest Valid Parentheses",
+    "difficulty": "Hard",
+    "topics": ["String", "Dynamic Programming", "Stack"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 37,
+    "title": "Sudoku Solver",
+    "difficulty": "Hard",
+    "topics": ["Array", "Backtracking", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 41,
+    "title": "First Missing Positive",
+    "difficulty": "Hard",
+    "topics": ["Array", "Hash Table"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 43,
+    "title": "Multiply Strings",
+    "difficulty": "Medium",
+    "topics": ["Math", "String", "Simulation"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 45,
+    "title": "Jump Game II",
+    "difficulty": "Medium",
+    "topics": ["Array", "Greedy", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 47,
+    "title": "Permutations II",
+    "difficulty": "Medium",
+    "topics": ["Array", "Backtracking"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 50,
+    "title": "Pow(x, n)",
+    "difficulty": "Medium",
+    "topics": ["Math", "Recursion"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 51,
+    "title": "N-Queens",
+    "difficulty": "Hard",
+    "topics": ["Array", "Backtracking"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 72,
+    "title": "Edit Distance",
+    "difficulty": "Hard",
+    "topics": ["String", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 76,
+    "title": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "topics": ["Hash Table", "String", "Sliding Window"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 85,
+    "title": "Maximal Rectangle",
+    "difficulty": "Hard",
+    "topics": ["Array", "Dynamic Programming", "Stack", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 90,
+    "title": "Subsets II",
+    "difficulty": "Medium",
+    "topics": ["Array", "Backtracking"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 92,
+    "title": "Reverse Linked List II",
+    "difficulty": "Medium",
+    "topics": ["Linked List"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 94,
+    "title": "Binary Tree Inorder Traversal",
+    "difficulty": "Easy",
+    "topics": ["Stack", "Tree", "DFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 96,
+    "title": "Unique Binary Search Trees",
+    "difficulty": "Medium",
+    "topics": ["Dynamic Programming", "Tree"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 101,
+    "title": "Symmetric Tree",
+    "difficulty": "Easy",
+    "topics": ["Tree", "DFS", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 103,
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "Medium",
+    "topics": ["Tree", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 110,
+    "title": "Balanced Binary Tree",
+    "difficulty": "Easy",
+    "topics": ["Tree", "DFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 114,
+    "title": "Flatten Binary Tree to Linked List",
+    "difficulty": "Medium",
+    "topics": ["Linked List", "Tree", "DFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 115,
+    "title": "Distinct Subsequences",
+    "difficulty": "Hard",
+    "topics": ["String", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 124,
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "Hard",
+    "topics": ["Tree", "DFS", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 127,
+    "title": "Word Ladder",
+    "difficulty": "Hard",
+    "topics": ["Hash Table", "String", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 129,
+    "title": "Sum Root to Leaf Numbers",
+    "difficulty": "Medium",
+    "topics": ["Tree", "DFS"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 131,
+    "title": "Palindrome Partitioning",
+    "difficulty": "Medium",
+    "topics": ["String", "Backtracking", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 134,
+    "title": "Gas Station",
+    "difficulty": "Medium",
+    "topics": ["Array", "Greedy"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 136,
+    "title": "Single Number",
+    "difficulty": "Easy",
+    "topics": ["Array", "Bit Manipulation"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 138,
+    "title": "Copy List with Random Pointer",
+    "difficulty": "Medium",
+    "topics": ["Hash Table", "Linked List"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 142,
+    "title": "Linked List Cycle II",
+    "difficulty": "Medium",
+    "topics": ["Linked List", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 148,
+    "title": "Sort List",
+    "difficulty": "Medium",
+    "topics": ["Linked List", "Sorting", "Divide and Conquer"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 160,
+    "title": "Intersection of Two Linked Lists",
+    "difficulty": "Easy",
+    "topics": ["Hash Table", "Linked List", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 162,
+    "title": "Find Peak Element",
+    "difficulty": "Medium",
+    "topics": ["Array", "Binary Search"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 179,
+    "title": "Largest Number",
+    "difficulty": "Medium",
+    "topics": ["Array", "Greedy", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 189,
+    "title": "Rotate Array",
+    "difficulty": "Medium",
+    "topics": ["Array", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 199,
+    "title": "Binary Tree Right Side View",
+    "difficulty": "Medium",
+    "topics": ["Tree", "BFS", "DFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 213,
+    "title": "House Robber II",
+    "difficulty": "Medium",
+    "topics": ["Array", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 216,
+    "title": "Combination Sum III",
+    "difficulty": "Medium",
+    "topics": ["Array", "Backtracking"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 222,
+    "title": "Count Complete Tree Nodes",
+    "difficulty": "Easy",
+    "topics": ["Binary Search", "Tree"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 223,
+    "title": "Rectangle Area",
+    "difficulty": "Medium",
+    "topics": ["Math", "Geometry"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 225,
+    "title": "Implement Stack using Queues",
+    "difficulty": "Easy",
+    "topics": ["Stack", "Queue", "Design"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 228,
+    "title": "Summary Ranges",
+    "difficulty": "Easy",
+    "topics": ["Array"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 229,
+    "title": "Majority Element II",
+    "difficulty": "Medium",
+    "topics": ["Array", "Hash Table"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 240,
+    "title": "Search a 2D Matrix II",
+    "difficulty": "Medium",
+    "topics": ["Array", "Binary Search", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 279,
+    "title": "Perfect Squares",
+    "difficulty": "Medium",
+    "topics": ["Math", "Dynamic Programming", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 279,
+    "title": "Perfect Squares",
+    "difficulty": "Medium",
+    "topics": ["Math", "Dynamic Programming", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 283,
+    "title": "Move Zeroes",
+    "difficulty": "Easy",
+    "topics": ["Array", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 289,
+    "title": "Game of Life",
+    "difficulty": "Medium",
+    "topics": ["Array", "Matrix", "Simulation"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 309,
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "difficulty": "Medium",
+    "topics": ["Array", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 312,
+    "title": "Burst Balloons",
+    "difficulty": "Hard",
+    "topics": ["Array", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 315,
+    "title": "Count of Smaller Numbers After Self",
+    "difficulty": "Hard",
+    "topics": ["Array", "Binary Indexed Tree", "Divide and Conquer"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 316,
+    "title": "Remove Duplicate Letters",
+    "difficulty": "Medium",
+    "topics": ["String", "Stack", "Greedy"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 329,
+    "title": "Longest Increasing Path in a Matrix",
+    "difficulty": "Hard",
+    "topics": ["DFS", "Dynamic Programming", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 337,
+    "title": "House Robber III",
+    "difficulty": "Medium",
+    "topics": ["Tree", "Dynamic Programming", "DFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 338,
+    "title": "Counting Bits",
+    "difficulty": "Easy",
+    "topics": ["Dynamic Programming", "Bit Manipulation"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 341,
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "Medium",
+    "topics": ["Stack", "Design", "Iterator"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 354,
+    "title": "Russian Doll Envelopes",
+    "difficulty": "Hard",
+    "topics": ["Array", "Dynamic Programming", "Binary Search"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 355,
+    "title": "Design Twitter",
+    "difficulty": "Medium",
+    "topics": ["Hash Table", "Heap", "Design"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 368,
+    "title": "Largest Divisible Subset",
+    "difficulty": "Medium",
+    "topics": ["Array", "Dynamic Programming", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 376,
+    "title": "Wiggle Subsequence",
+    "difficulty": "Medium",
+    "topics": ["Array", "Greedy", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "topics": ["Array", "Hash Table", "Design"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 384,
+    "title": "Shuffle an Array",
+    "difficulty": "Medium",
+    "topics": ["Array", "Math", "Randomized"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 395,
+    "title": "Longest Substring with At Least K Repeating Characters",
+    "difficulty": "Medium",
+    "topics": ["String", "Divide and Conquer", "Sliding Window"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 399,
+    "title": "Evaluate Division",
+    "difficulty": "Medium",
+    "topics": ["Graph", "DFS", "Union Find"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 402,
+    "title": "Remove K Digits",
+    "difficulty": "Medium",
+    "topics": ["String", "Stack", "Greedy"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 406,
+    "title": "Queue Reconstruction by Height",
+    "difficulty": "Medium",
+    "topics": ["Array", "Greedy", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 416,
+    "title": "Partition Equal Subset Sum",
+    "difficulty": "Medium",
+    "topics": ["Array", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 421,
+    "title": "Maximum XOR of Two Numbers in an Array",
+    "difficulty": "Medium",
+    "topics": ["Array", "Bit Manipulation", "Trie"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 426,
+    "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+    "difficulty": "Medium",
+    "topics": ["Linked List", "Tree", "DFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 430,
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "difficulty": "Medium",
+    "topics": ["Linked List", "DFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 443,
+    "title": "String Compression",
+    "difficulty": "Medium",
+    "topics": ["String", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 452,
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "difficulty": "Medium",
+    "topics": ["Array", "Greedy", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 454,
+    "title": "4Sum II",
+    "difficulty": "Medium",
+    "topics": ["Array", "Hash Table"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 462,
+    "title": "Minimum Moves to Equal Array Elements II",
+    "difficulty": "Medium",
+    "topics": ["Array", "Math", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 474,
+    "title": "Ones and Zeroes",
+    "difficulty": "Medium",
+    "topics": ["Array", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 486,
+    "title": "Predict the Winner",
+    "difficulty": "Medium",
+    "topics": ["Dynamic Programming", "Game Theory"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 491,
+    "title": "Non-decreasing Subsequences",
+    "difficulty": "Medium",
+    "topics": ["Array", "Backtracking"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 503,
+    "title": "Next Greater Element II",
+    "difficulty": "Medium",
+    "topics": ["Array", "Stack", "Monotonic Stack"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 516,
+    "title": "Longest Palindromic Subsequence",
+    "difficulty": "Medium",
+    "topics": ["String", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 525,
+    "title": "Contiguous Array",
+    "difficulty": "Medium",
+    "topics": ["Array", "Hash Table", "Prefix Sum"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 540,
+    "title": "Single Element in a Sorted Array",
+    "difficulty": "Medium",
+    "topics": ["Array", "Binary Search"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 547,
+    "title": "Number of Provinces",
+    "difficulty": "Medium",
+    "topics": ["Graph", "DFS", "BFS", "Union Find"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 567,
+    "title": "Permutation in String",
+    "difficulty": "Medium",
+    "topics": ["Hash Table", "String", "Sliding Window"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 576,
+    "title": "Out of Boundary Paths",
+    "difficulty": "Medium",
+    "topics": ["Dynamic Programming", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 581,
+    "title": "Shortest Unsorted Continuous Subarray",
+    "difficulty": "Medium",
+    "topics": ["Array", "Stack", "Sorting"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 583,
+    "title": "Delete Operation for Two Strings",
+    "difficulty": "Medium",
+    "topics": ["String", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 621,
+    "title": "Task Scheduler",
+    "difficulty": "Medium",
+    "topics": ["Array", "Greedy", "Heap"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 633,
+    "title": "Sum of Square Numbers",
+    "difficulty": "Medium",
+    "topics": ["Math", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 636,
+    "title": "Exclusive Time of Functions",
+    "difficulty": "Medium",
+    "topics": ["Stack"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 646,
+    "title": "Maximum Length of Pair Chain",
+    "difficulty": "Medium",
+    "topics": ["Array", "Dynamic Programming", "Greedy"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 659,
+    "title": "Split Array into Consecutive Subsequences",
+    "difficulty": "Medium",
+    "topics": ["Array", "Hash Table", "Greedy"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 662,
+    "title": "Maximum Width of Binary Tree",
+    "difficulty": "Medium",
+    "topics": ["Tree", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 678,
+    "title": "Valid Parenthesis String",
+    "difficulty": "Medium",
+    "topics": ["String", "Dynamic Programming", "Greedy"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 684,
+    "title": "Redundant Connection",
+    "difficulty": "Medium",
+    "topics": ["Graph", "Union Find"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 692,
+    "title": "Top K Frequent Words",
+    "difficulty": "Medium",
+    "topics": ["Hash Table", "Heap", "String"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 698,
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "Medium",
+    "topics": ["Array", "Dynamic Programming", "Backtracking"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 703,
+    "title": "Kth Largest Element in a Stream",
+    "difficulty": "Easy",
+    "topics": ["Heap", "Design"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 714,
+    "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+    "difficulty": "Medium",
+    "topics": ["Array", "Dynamic Programming", "Greedy"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 718,
+    "title": "Maximum Length of Repeated Subarray",
+    "difficulty": "Medium",
+    "topics": ["Array", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 721,
+    "title": "Accounts Merge",
+    "difficulty": "Medium",
+    "topics": ["Graph", "DFS", "Union Find"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 724,
+    "title": "Find Pivot Index",
+    "difficulty": "Easy",
+    "topics": ["Array", "Prefix Sum"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 735,
+    "title": "Asteroid Collision",
+    "difficulty": "Medium",
+    "topics": ["Array", "Stack", "Simulation"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 743,
+    "title": "Network Delay Time",
+    "difficulty": "Medium",
+    "topics": ["Graph", "Shortest Path", "Heap"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 752,
+    "title": "Open the Lock",
+    "difficulty": "Medium",
+    "topics": ["String", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 778,
+    "title": "Swim in Rising Water",
+    "difficulty": "Hard",
+    "topics": ["Graph", "Binary Search", "Heap"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 784,
+    "title": "Letter Case Permutation",
+    "difficulty": "Medium",
+    "topics": ["String", "Backtracking"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 790,
+    "title": "Domino and Tromino Tiling",
+    "difficulty": "Medium",
+    "topics": ["Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 802,
+    "title": "Find Eventual Safe States",
+    "difficulty": "Medium",
+    "topics": ["Graph", "DFS", "Topological Sort"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 820,
+    "title": "Short Encoding of Words",
+    "difficulty": "Medium",
+    "topics": ["Trie", "String"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 853,
+    "title": "Car Fleet",
+    "difficulty": "Medium",
+    "topics": ["Array", "Stack", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 860,
+    "title": "Lemonade Change",
+    "difficulty": "Easy",
+    "topics": ["Array", "Greedy"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 862,
+    "title": "Shortest Subarray with Sum at Least K",
+    "difficulty": "Hard",
+    "topics": ["Array", "Deque", "Prefix Sum"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 871,
+    "title": "Minimum Number of Refueling Stops",
+    "difficulty": "Hard",
+    "topics": ["Array", "Greedy", "Heap"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 881,
+    "title": "Boats to Save People",
+    "difficulty": "Medium",
+    "topics": ["Array", "Greedy", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 886,
+    "title": "Possible Bipartition",
+    "difficulty": "Medium",
+    "topics": ["Graph", "DFS", "BFS"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 894,
+    "title": "All Possible Full Binary Trees",
+    "difficulty": "Medium",
+    "topics": ["Tree", "Dynamic Programming", "Recursion"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 901,
+    "title": "Online Stock Span",
+    "difficulty": "Medium",
+    "topics": ["Stack", "Monotonic Stack", "Design"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 907,
+    "title": "Sum of Subarray Minimums",
+    "difficulty": "Medium",
+    "topics": ["Array", "Stack", "Monotonic Stack"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 918,
+    "title": "Maximum Sum Circular Subarray",
+    "difficulty": "Medium",
+    "topics": ["Array", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 919,
+    "title": "Complete Binary Tree Inserter",
+    "difficulty": "Medium",
+    "topics": ["Tree", "BFS", "Design"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 930,
+    "title": "Binary Subarrays With Sum",
+    "difficulty": "Medium",
+    "topics": ["Array", "Sliding Window", "Prefix Sum"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 934,
+    "title": "Shortest Bridge",
+    "difficulty": "Medium",
+    "topics": ["Graph", "DFS", "BFS", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 946,
+    "title": "Validate Stack Sequences",
+    "difficulty": "Medium",
+    "topics": ["Array", "Stack", "Simulation"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 947,
+    "title": "Most Stones Removed with Same Row or Column",
+    "difficulty": "Medium",
+    "topics": ["Graph", "DFS", "Union Find"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 958,
+    "title": "Check Completeness of a Binary Tree",
+    "difficulty": "Medium",
+    "topics": ["Tree", "BFS"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 968,
+    "title": "Binary Tree Cameras",
+    "difficulty": "Hard",
+    "topics": ["Tree", "Greedy", "DFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 973,
+    "title": "K Closest Points to Origin",
+    "difficulty": "Medium",
+    "topics": ["Array", "Heap", "Geometry"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 974,
+    "title": "Subarray Sums Divisible by K",
+    "difficulty": "Medium",
+    "topics": ["Array", "Hash Table", "Prefix Sum"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 977,
+    "title": "Squares of a Sorted Array",
+    "difficulty": "Easy",
+    "topics": ["Array", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 983,
+    "title": "Minimum Cost For Tickets",
+    "difficulty": "Medium",
+    "topics": ["Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 986,
+    "title": "Interval List Intersections",
+    "difficulty": "Medium",
+    "topics": ["Array", "Two Pointers"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 990,
+    "title": "Satisfiability of Equality Equations",
+    "difficulty": "Medium",
+    "topics": ["Graph", "Union Find"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 994,
+    "title": "Rotting Oranges",
+    "difficulty": "Medium",
+    "topics": ["Matrix", "BFS"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1008,
+    "title": "Construct Binary Search Tree from Preorder Traversal",
+    "difficulty": "Medium",
+    "topics": ["Tree", "BST", "Recursion"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1011,
+    "title": "Capacity To Ship Packages Within D Days",
+    "difficulty": "Medium",
+    "topics": ["Array", "Binary Search"],
+    "platform": "LeetCode"
+  },
+
+  {
+    "leetcodeId": 1020,
+    "title": "Number of Enclaves",
+    "difficulty": "Medium",
+    "topics": ["Graph", "DFS", "BFS", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1029,
+    "title": "Two City Scheduling",
+    "difficulty": "Medium",
+    "topics": ["Array", "Greedy", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1038,
+    "title": "Binary Search Tree to Greater Sum Tree",
+    "difficulty": "Medium",
+    "topics": ["Tree", "DFS", "BST"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1047,
+    "title": "Remove All Adjacent Duplicates In String",
+    "difficulty": "Easy",
+    "topics": ["String", "Stack"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1051,
+    "title": "Height Checker",
+    "difficulty": "Easy",
+    "topics": ["Array", "Sorting"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1091,
+    "title": "Shortest Path in Binary Matrix",
+    "difficulty": "Medium",
+    "topics": ["Graph", "BFS", "Matrix"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1122,
+    "title": "Relative Sort Array",
+    "difficulty": "Easy",
+    "topics": ["Array", "Sorting", "Hash Table"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1137,
+    "title": "N-th Tribonacci Number",
+    "difficulty": "Easy",
+    "topics": ["Math", "Dynamic Programming"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1140,
+    "title": "Stone Game II",
+    "difficulty": "Medium",
+    "topics": ["Dynamic Programming", "Game Theory"],
+    "platform": "LeetCode"
+  },
+  {
+    "leetcodeId": 1146,
+    "title": "Snapshot Array",
+    "difficulty": "Medium",
+    "topics": ["Array", "Binary Search", "Design"],
+    "platform": "LeetCode"
+  }
+]

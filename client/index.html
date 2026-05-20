@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+name="viewport"
+content="width=device-width, initial-scale=1.0"
+>
+
+<title>
+Smart Placement Preparation Tracker
+</title>
+
+<link
+rel="stylesheet"
+href="style.css"
+>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- =========================
+         HEADER
+    ========================== -->
+
+    <div class="header">
+
+        <h1>
+            Smart Placement Preparation Tracker
+        </h1>
+
+        <button
+            class="dark-btn"
+            onclick="toggleDarkMode()"
+        >
+            🌙
+        </button>
+
+    </div>
+
+    <!-- =========================
+         SEARCH
+    ========================== -->
+
+    <div class="form">
+
+        <input
+            type="text"
+            id="searchInput"
+            placeholder="Search by title, topic, difficulty or problem ID..."
+            autocomplete="off"
+        >
+
+        <div id="suggestions"></div>
+
+    </div>
+
+    <!-- =========================
+         FILTERS
+    ========================== -->
+
+    <div class="filter-section">
+
+        <!-- STATUS -->
+
+        <div class="filter-group">
+
+            <button
+                id="allFilter"
+                class="filter-btn active"
+                onclick="setStatusFilter('all')"
+            >
+                All
+            </button>
+
+            <button
+                id="solvedFilter"
+                class="filter-btn"
+                onclick="setStatusFilter('solved')"
+            >
+                Solved
+            </button>
+
+            <button
+                id="unsolvedFilter"
+                class="filter-btn"
+                onclick="setStatusFilter('unsolved')"
+            >
+                Unsolved
+            </button>
+
+        </div>
+
+        <!-- DIFFICULTY -->
+
+        <div class="filter-group">
+
+            <button
+                id="easyFilter"
+                class="filter-btn easy-filter"
+                onclick="setDifficultyFilter('easy')"
+            >
+                Easy
+            </button>
+
+            <button
+                id="mediumFilter"
+                class="filter-btn medium-filter"
+                onclick="setDifficultyFilter('medium')"
+            >
+                Medium
+            </button>
+
+            <button
+                id="hardFilter"
+                class="filter-btn hard-filter"
+                onclick="setDifficultyFilter('hard')"
+            >
+                Hard
+            </button>
+
+            <button
+                class="filter-btn"
+                onclick="clearDifficultyFilter()"
+            >
+                Clear Difficulty
+            </button>
+
+        </div>
+
+    </div>
+
+    <!-- =========================
+         PROBLEMS TABLE
+    ========================== -->
+
+    <h2>
+        Problems
+    </h2>
+
+    <div class="table-wrapper">
+
+        <table class="problem-table">
+
+            <thead>
+
+                <tr>
+
+                    <th>Status</th>
+
+                    <th>ID</th>
+
+                    <th>Title</th>
+
+                    <th>Difficulty</th>
+
+                    <th>Topics</th>
+
+                    <th>Actions</th>
+
+                </tr>
+
+            </thead>
+
+            <tbody id="problemList">
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+    <!-- =========================
+         ANALYTICS
+    ========================== -->
+
+    <h2>
+        Analytics
+    </h2>
+
+    <div class="analytics-container">
+
+        <div class="card">
+
+            <h3>
+                Total Problems
+            </h3>
+
+            <p id="total">
+                0
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>
+                Solved
+            </h3>
+
+            <p id="solved">
+                0
+            </p>
+
+        </div>
+
+        <div
+            class="card"
+            id="weakCard"
+        >
+
+            <h3>
+                Weakest Topic
+            </h3>
+
+            <p id="weakest">
+                N/A
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>
+                Insight
+            </h3>
+
+            <p id="insight">
+                -
+            </p>
+
+        </div>
+
+    </div>
+
+    <!-- =========================
+         PROGRESS BAR
+    ========================== -->
+
+    <h2>
+        Completion Progress
+    </h2>
+
+    <div class="progress-container">
+
+        <div id="progressBar"></div>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>

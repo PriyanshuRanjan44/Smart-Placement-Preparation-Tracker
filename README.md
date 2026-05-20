@@ -39,7 +39,6 @@ Smart Placement Preparation Tracker is a web-based application developed to help
 ### Tools Used
 
 * VS Code
-* Postman
 * MongoDB Compass
 
 ---
